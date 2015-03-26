@@ -1,5 +1,8 @@
 {
   "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Jesse McCarthy (http://software.jessemccarthy.net/)",
   "dependencies": {
     "js-yaml": "1.x",
     "lodash": "3.x",
