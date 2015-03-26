@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "dependencies": {
+    "js-yaml": "1.x",
+    "lodash": "3.x",
+    "mustache": "1.x"
+  }
+}

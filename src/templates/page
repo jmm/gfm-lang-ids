@@ -1,0 +1,11 @@
+These are the language IDs to use in [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) to enable syntax highlightling. This list was extracted from [Linguist](https://github.com/github/linguist) version {{linguist_version}}. See Linguist's [lib/linguist/languages.yml](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml) for the most up to date values.
+
+For example, this snippet uses the `js` ID to enable JavaScript syntax:
+
+    ```js
+    console.log(x);
+    ```
+
+Language IDs are case-insensitive and may be specified with or without a `.` prepended. If there is an ID `whatever`, then `.whatever`, `.WHATever`, and `whatEVER` are equivalent.
+
+{{{languages}}}

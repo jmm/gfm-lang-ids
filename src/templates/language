@@ -1,0 +1,11 @@
+<tr>
+
+<th scope="row">
+{{label}}
+</th>
+
+<td class="lang-id">
+{{#ids}}{{.}} &bull; {{/ids}}
+</td>
+
+</tr>

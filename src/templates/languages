@@ -1,0 +1,23 @@
+# By Language
+
+<table>
+
+<thead>
+<tr>
+<th scope="col">
+Language
+</th>
+
+<th scope="col">
+IDs
+</th>
+</tr>
+</thead>
+
+<tbody>
+{{#languages}}
+{{{.}}}
+{{/languages}}
+</tbody>
+
+</table>
